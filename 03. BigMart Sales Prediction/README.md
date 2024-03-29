@@ -1,7 +1,4 @@
 
-## **DAY 50 (6 Nov 2023):**
-### Topic: Hyperparameter Tuning the Models
-
 ### Throughout this project:
 1. Data Exploration: Understanding the features.
 2. Dealing with Null Values: Few columns have null values, and upon observation, for the numeric columns without many outliers, have imputed them with mean. And categorical column with mode.
@@ -12,6 +9,3 @@
 7. Applied appropriate Models.
 8. Hyperparameter Tuning the models to find the best model.
 
-Detailed Notes: [Day 50 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/50.%20Day%2050%20-%20Hyperparameter%20Tuning%20the%20Models)
-
-LinkedIn post: [Day 50 Update](https://www.linkedin.com/feed/update/urn:li:activity:7128225792345468928?utm_source=share&utm_medium=member_desktop)
